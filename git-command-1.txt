@@ -1,0 +1,10 @@
+git status   -> prints the status of Git Repository
+git init    -> add a .git extension (hidden)
+git config --global user.name "Shastri-cloud"
+git config --global user.email nagedermishra@gmail.com
+git config uder.name "Shastri-cloud"
+git config user.email nagendermishra@gmail.com
+git add
+git commit - m ""
+git log
+Git diff <filename>
